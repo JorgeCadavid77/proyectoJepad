@@ -1,0 +1,24 @@
+-Deseo que el juego sea enfocado a la prevención del consumo de drogas.
+-deseo que el juego tenga un personaje con el cual interactuar
+
+-deseo que el juego tenga 5 partes que expliquen el proceso de la adcción a las drogas.
+	-Experimental
+	-Recreativos
+	-sociales
+	-Compulsivos
+	-Adicto
+
+-Deseo que el juego muestre información sobre factores de protección y de riesgo al interactuar con el personaje.
+	RIESGO
+	-Historia genetica
+	-Familia disfuncional
+	-Ocupación del tiempo libre inadecuada
+	-Amigos consunidores de SPA
+	-Instución Educativa: compañeros consumidores
+	-Barrio donde hay vecinos consumidores 
+
+	PROTECCIÓN
+	-Familia unida, dialogan, existe buena relación
+	-Ocupación del tiempo en práctica de un arte o deporte.
+	-Amistades que no presentan consumo de drogas,.
+	-No tiene familiares que consuman drogas.
